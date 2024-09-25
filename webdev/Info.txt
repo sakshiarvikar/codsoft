@@ -1,3 +1,5 @@
 this is calculator
 
 added new color
+
+added test 4
